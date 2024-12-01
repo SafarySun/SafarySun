@@ -1,4 +1,4 @@
-<img src="https://github.com/SafarySun/SafarySun/blob/main/assets/android-developer-ledu48pvwl9fgxzw.jpg" alt="Header" width="600"/>
+<img src="https://github.com/SafarySun/SafarySun/blob/main/assets/android.png" alt="Header" width="600"/>
 
 
 about me
