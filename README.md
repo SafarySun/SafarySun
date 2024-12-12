@@ -28,3 +28,4 @@ I dedicate all my free time to learning and programming. 📚
 ## My Contacts
 - [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/barevahper)
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
+<img src="https://github.com/SafarySun/SafarySun/blob/main/assets/android.png" alt="Header" height="200"/>
